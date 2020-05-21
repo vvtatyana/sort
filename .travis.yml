@@ -1,4 +1,4 @@
-language: с++ 
+language: с++.
 branches:
   only:
   - master 
